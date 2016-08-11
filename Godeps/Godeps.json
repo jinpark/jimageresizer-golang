@@ -1,0 +1,23 @@
+{
+	"ImportPath": "jimageresizer-go",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/disintegration/imaging",
+			"Rev": "d8bbae1de109b518dabc98c6c1633eb358c148a4"
+		},
+		{
+			"ImportPath": "golang.org/x/image/bmp",
+			"Rev": "9f8d0d45877da31f672995d10677ae6a586e31a5"
+		},
+		{
+			"ImportPath": "golang.org/x/image/tiff",
+			"Rev": "9f8d0d45877da31f672995d10677ae6a586e31a5"
+		},
+		{
+			"ImportPath": "golang.org/x/image/tiff/lzw",
+			"Rev": "9f8d0d45877da31f672995d10677ae6a586e31a5"
+		}
+	]
+}
